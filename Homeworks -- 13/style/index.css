@@ -1,0 +1,43 @@
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 120px;
+    margin-top: 20px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+.divv{
+    float:left;
+    position: relative;
+    z-index: 1;
+    top: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+.ggg{ float: left;
+        }
+.dav{
+    color: blue;
+    margin-top: 225px;
+    position: absolute;
+    z-index: 3;
+    
+    width: 150px;
+    
+}
+.but{
+    color: blue;
+    margin-top: 250px;
+    position: absolute;
+    z-index: 3;
+    
+    width: 150px;
+}
